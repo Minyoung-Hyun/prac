@@ -1,0 +1,1 @@
+print("minyoung입니다.")
